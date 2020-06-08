@@ -9,6 +9,8 @@ So, I built an app for that and also for educational purpose.
 ## Part 1:
 About the project
 https://youtu.be/4gSPZ9DaaFY (3:55 mins.)
-## Part 2: https://youtu.be/OEWascBqd4U (2:20 mins.)
-Building the interface using SwiftUI
-## Part 3: In Post Production
+## Part 2:
+Building the interface using SwiftUI 
+https://youtu.be/OEWascBqd4U (2:20 mins.)
+## Part 3:
+Finalized the application: https://youtu.be/UQ15QdJ0c50 (4:30 mins.)
