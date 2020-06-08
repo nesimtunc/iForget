@@ -6,6 +6,9 @@ So, I built an app for that and also for educational purpose.
 
 # Tutorial Videos
 
-## Part 1: https://youtu.be/4gSPZ9DaaFY (3:55 mins.)
+## Part 1:
+About the project
+https://youtu.be/4gSPZ9DaaFY (3:55 mins.)
 ## Part 2: https://youtu.be/OEWascBqd4U (2:20 mins.)
+Building the interface using SwiftUI
 ## Part 3: In Post Production
