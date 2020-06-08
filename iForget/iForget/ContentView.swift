@@ -13,6 +13,8 @@ struct ContentView: View {
 	@State var message = UserDefaults.standard.string(forKey: "message") ?? ""
 	@State var result = ""
 
+	private let session = SessionController()
+
     var body: some View {
 		VStack {
 			Form {

@@ -13,6 +13,9 @@
 		4845F342248DCF380024F1E1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4845F341248DCF380024F1E1 /* Assets.xcassets */; };
 		4845F345248DCF380024F1E1 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4845F344248DCF380024F1E1 /* Preview Assets.xcassets */; };
 		4845F348248DCF380024F1E1 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4845F346248DCF380024F1E1 /* LaunchScreen.storyboard */; };
+		4845F356248E245E0024F1E1 /* BeaconDetector.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4845F355248E245E0024F1E1 /* BeaconDetector.swift */; };
+		4845F358248E278F0024F1E1 /* NotificationService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4845F357248E278F0024F1E1 /* NotificationService.swift */; };
+		4845F35A248E2C270024F1E1 /* SessionController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4845F359248E2C270024F1E1 /* SessionController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +27,9 @@
 		4845F344248DCF380024F1E1 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		4845F347248DCF380024F1E1 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		4845F349248DCF380024F1E1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		4845F355248E245E0024F1E1 /* BeaconDetector.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BeaconDetector.swift; sourceTree = "<group>"; };
+		4845F357248E278F0024F1E1 /* NotificationService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NotificationService.swift; sourceTree = "<group>"; };
+		4845F359248E2C270024F1E1 /* SessionController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SessionController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,10 +65,13 @@
 				4845F33B248DCF360024F1E1 /* AppDelegate.swift */,
 				4845F33D248DCF360024F1E1 /* SceneDelegate.swift */,
 				4845F33F248DCF360024F1E1 /* ContentView.swift */,
+				4845F355248E245E0024F1E1 /* BeaconDetector.swift */,
+				4845F357248E278F0024F1E1 /* NotificationService.swift */,
 				4845F341248DCF380024F1E1 /* Assets.xcassets */,
 				4845F346248DCF380024F1E1 /* LaunchScreen.storyboard */,
 				4845F349248DCF380024F1E1 /* Info.plist */,
 				4845F343248DCF380024F1E1 /* Preview Content */,
+				4845F359248E2C270024F1E1 /* SessionController.swift */,
 			);
 			path = iForget;
 			sourceTree = "<group>";
@@ -147,7 +156,10 @@
 			buildActionMask = 2147483647;
 			files = (
 				4845F33C248DCF360024F1E1 /* AppDelegate.swift in Sources */,
+				4845F356248E245E0024F1E1 /* BeaconDetector.swift in Sources */,
 				4845F33E248DCF360024F1E1 /* SceneDelegate.swift in Sources */,
+				4845F358248E278F0024F1E1 /* NotificationService.swift in Sources */,
+				4845F35A248E2C270024F1E1 /* SessionController.swift in Sources */,
 				4845F340248DCF360024F1E1 /* ContentView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
