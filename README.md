@@ -4,7 +4,7 @@ We developers always have a lot of stuff in our mind so it's easy to forget some
 
 So, I built an app for that and also for educational purpose.
 
-This is single iBeacon monitoring application. Here's a multiple one. https://github.com/nesimtunc/stepping
+This is single iBeacon monitoring application. Here's a multiple one: https://github.com/nesimtunc/stepping
 
 # Tutorial Videos
 
